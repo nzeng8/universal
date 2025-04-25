@@ -132,7 +132,7 @@ local nonConsumables = {
 "Inscriber Engineering Press",
 "Inscriber Logic Press",
 "Inscriber Silicon Press",
-"Inscriber Calculation Press"
+"Inscriber Calculation Press",
 "Copper Plate"
 }
 
